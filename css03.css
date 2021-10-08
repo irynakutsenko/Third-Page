@@ -1,0 +1,22 @@
+body{
+    background: rosybrown;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#two {
+    background: green;
+    margin: 0.5em;
+    padding: 2em;
+    border-radius: 1em;
+}
+#two ol {
+    margin: 5px;
+}
+#one {
+    width: 60%;
+}
+#one h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
